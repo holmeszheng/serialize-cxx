@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDevTest.a  CMakeFiles/DevTest.dir/Deserializer.cc.o CMakeFiles/DevTest.dir/Serializer.cc.o CMakeFiles/DevTest.dir/Structures.cc.o
+/usr/bin/ranlib libDevTest.a

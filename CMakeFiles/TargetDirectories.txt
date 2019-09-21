@@ -1,0 +1,5 @@
+/home/godric/Programming/C++/serialize-cxx/CMakeFiles/rebuild_cache.dir
+/home/godric/Programming/C++/serialize-cxx/CMakeFiles/DevTest.dir
+/home/godric/Programming/C++/serialize-cxx/CMakeFiles/DevTestTests.dir
+/home/godric/Programming/C++/serialize-cxx/CMakeFiles/test.dir
+/home/godric/Programming/C++/serialize-cxx/CMakeFiles/edit_cache.dir

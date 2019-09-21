@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503772700 source:/home/godric/Programming/C++/serialize-cxx/Deserializer.cc
+	"Deserializer.h"
+
+1503772696 /home/godric/Programming/C++/serialize-cxx/Deserializer.h
+	"Structures.h"
+	<unordered_map>
+	<string>
+
+1501871330 /home/godric/Programming/C++/serialize-cxx/Structures.h
+	<cstdint>
+	<string>
+
